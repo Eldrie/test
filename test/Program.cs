@@ -12,7 +12,7 @@ namespace test
         {
 		Console.WriteLine("Hola Mundo");
 		Console.WriteLine("Adios Mundo!!!!");
-		
+		Console.WriteLine("Edit en linea")
 		Console.Read();
         }
     }
