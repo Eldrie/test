@@ -10,7 +10,8 @@ namespace test
     {
         static void Main(string[] args)
         {
-		Cosole.WriteLine("Hola Mundo");
+		Console.WriteLine("Hola Mundo");
+
 		
 		Console.Read();
         }
